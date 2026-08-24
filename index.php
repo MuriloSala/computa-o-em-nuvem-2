@@ -1,3 +1,3 @@
 <?php
-echo "Olá, você executou esta aplicação em nuvem";
+echo "Teste 1 do render";
 ?>
